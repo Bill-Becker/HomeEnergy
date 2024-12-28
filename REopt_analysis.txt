@@ -1,0 +1,2 @@
+2023 Load + Actual PV Size (not prod) + Forced BESS + SpaceHeating ASHP:
+https://reopt.nrel.gov/tool/results/a44e7aa2-aaf5-4a81-80cb-4cbd00d82646
