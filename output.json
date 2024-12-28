@@ -1,0 +1,16 @@
+[
+    {
+        "link_self": "https://myenergy.xcelenergy.com/greenbutton-connect/gbc/espi/1_1/resource/UsagePoint/a844613b3915aa1176019198f70343cbedc8a4e5_AMI",
+        "link_up": "https://myenergy.xcelenergy.com/greenbutton-connect/gbc/espi/1_1/resource/UsagePoint",
+        "link_related": [
+            "https://myenergy.xcelenergy.com/greenbutton-connect/gbc/espi/1_1/resource/UsagePoint/a844613b3915aa1176019198f70343cbedc8a4e5_AMI/MeterReading",
+            "https://myenergy.xcelenergy.com/greenbutton-connect/gbc/espi/1_1/resource/UsagePoint/a844613b3915aa1176019198f70343cbedc8a4e5_AMI/UsageSummary",
+            "https://myenergy.xcelenergy.com/greenbutton-connect/gbc/espi/1_1/resource/LocalTimeParameters/c4ca42_1"
+        ],
+        "title": "Usage Point",
+        "roleFlags": null,
+        "status": null,
+        "serviceCategory": {
+            "_value_": 0,
+            "_name_": "electricity",
+            "__objclass__": 
